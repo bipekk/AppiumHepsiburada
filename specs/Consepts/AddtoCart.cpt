@@ -1,0 +1,25 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Seçilmiş Olan Ürün Sepete Eklenir
+* "Ürünü Sepete Ekle" id'li elemente tikla
+* "Ürün Sepete Eklendi Kontrolü" li elementin oldugu kontrol edilir
+
+# Sepete Eklenen Ürünün Adedi Artırılır
+* "Ekleme Sonrası Sepete Gidiş" id'li elemente tikla
+* "Seçili Ürün Adedi Artırma" xpath'li elemente tikla
+
+# Sepete Eklenen Ürünün Adedi Azaltılır
+* "Ekleme Sonrası Sepete Gidiş" id'li elemente tikla
+* "Seçili Ürün Adedi Azaltma" xpath'li elemente tikla
+
+# Sepete Eklenen Ürün Silinir
+* "Ekleme Sonrası Sepete Gidiş" id'li elemente tikla
+* "Ürün Silme Butonu" xpath'li elemente tikla
+
+# Sepetteki Adet Sayısı 1'den Fazla Olan Ürün Silinir
+* "Ekleme Sonrası Sepete Gidiş" id'li elemente tikla
+* "1'den Fazla Adedi Bulunan Ürünü Komple Sepetten Silme" xpath'li elemente tikla
+
+# Alışverişi Tamamlama İşlemine Geçilir
+* "Alışverişi Tamamla Butonu" id'li elemente tikla

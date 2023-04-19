@@ -1,0 +1,62 @@
+[
+  {
+    "key": "Hesabım Icon",
+    "androidValue": "com.pozitron.hepsiburada:id/account_menu_button",
+    "androidType": "id"
+  },
+  {
+    "key": "Üye Ol Buton",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_button_0']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Üyelik Mail Adresi",
+    "androidValue": "txtEmail",
+    "androidType": "id"
+  },
+  {
+    "key": "Devam Et Butonu",
+    "androidValue": "btnSignUpSubmit",
+    "androidType": "id"
+  },
+  {
+    "key": "Doğrulama Maili Gönderildi Kontrolü",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[5]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Üyelik Ad",
+    "androidValue": "txtName",
+    "androidType": "id"
+  },
+  {
+    "key": "Üyelik Soyad",
+    "androidValue": "txtSurname",
+    "androidType": "id"
+  },
+  {
+    "key": "Üyelik Şifresi",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[3]/android.view.View[3]/android.widget.EditText xpath",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Üyelik Tamamlama Butonu",
+    "androidValue": "btnSignInSubmit",
+    "androidType": "id"
+  },
+  {
+    "key": "Başarılı Giriş Kontrolü",
+    "androidValue": "android:id/message",
+    "androidType": "id"
+  },
+  {
+    "key": "Üye Girişi Hoşgeldiniz Pop Up Kapatma Butonu",
+    "androidValue": "android:id/button1",
+    "androidType": "id"
+  },
+  {
+    "key": "Çıkış Yap Butonu",
+    "androidValue": "account_menu_button_13",
+    "androidType": "accessibility_id"
+  }
+]

@@ -1,0 +1,17 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Ana Sayfa Menü İkonuna Tıklanır
+* "Ana Sayfa Menü Icon" id'li elemente tikla
+
+# Kategoriler İkonuna Tıklanır
+* "Kategoriler Menü Icon" id'li elemente tikla
+
+# Sepetim İkonuna Tıklanır
+* "Sepetim Menü Icon" id'li elemente tikla
+
+# Listelerim İkonuna Tıklanır
+* "Listelerim Menü Icon" id'li elemente tikla
+
+# Hepsi İkonuna Tıklanır
+* "Hepsi Menü Icon" id'li elemente tikla

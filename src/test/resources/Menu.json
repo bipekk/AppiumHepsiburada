@@ -1,0 +1,27 @@
+[
+  {
+    "key": "Ana Sayfa Menü Icon",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_home",
+    "androidType": "id"
+  },
+  {
+    "key": "Kategoriler Menü Icon",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_category",
+    "androidType": "id"
+  },
+  {
+    "key": "Sepetim Menü Icon",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_cart",
+    "androidType": "id"
+  },
+  {
+    "key": "Listelerim Menü Icon",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_my_list",
+    "androidType": "id"
+  },
+  {
+    "key": "Hepsi Menü Icon",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_super_app",
+    "androidType": "id"
+  }
+]

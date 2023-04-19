@@ -1,0 +1,17 @@
+Created by testinium on 18.04.2023
+
+This is a concept file with following syntax for each concept.
+# Başarılı Login Olunur
+* "Hesabım Icon" id'li elemente tikla
+* "Giriş Yap Butonu Tıklama" id'li elemente tikla
+* "Login Mail" id'li elemente "berkay.ipek@testinium.com" text degerini gonder
+* "Mail Yazıldıktan Sonra Giriş Yap Butonu" id'li elemente tikla
+* "Login Şifre" id'li elemente "643ef46a2dbe4fb40d04705c339654d86e48b490067c5789db6f9bf89ac6f699513c57399c64" text degerini gonder
+* "Şifre Sonrası Giriş Yap Butonu" id'li elemente tikla
+* "Başarılı Giriş Kontrolü" li element gorunur olana kadar bekle
+* "Üye Girişi Hoşgeldiniz Pop Up Kapatma Butonu" id'li elemente tikla
+
+# Logout Olunur
+* "Hesabım Icon" id'li elemente tikla
+* "Çıkış Yap Butonu" li elementi bulana kadar swipe et
+* "Çıkış Yap Butonu" id'li elemente tikla

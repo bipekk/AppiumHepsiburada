@@ -1,0 +1,10 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Uygulama İçerisinden Rastgele Kategoriden Rastgele Ürün Ekranına Gelinir
+* "Hesabım Arayüzünden Ana Sayfaya Geri Dönüş Butonu" id'li elemente tikla
+* "Kategoriler Butonu" id'li elemente tikla
+* "Bilgisayar, Teknoloji, Elektronik Kategorisi" li elementi rastgele sec
+* "Alt Kategoriler Listesinden Rastgele Kategori Seçmek" li elementi rastgele sec
+* "Alt Kategori'nin Spesifik Kategori Listesi" li elementi rastgele sec
+* "Ürün Listesi" li elementi rastgele sec

@@ -1,0 +1,44 @@
+[
+  {
+    "key": "Hesabım Arayüzünden Ana Sayfaya Geri Dönüş Butonu",
+    "androidValue": "com.pozitron.hepsiburada:id/ivToolbarBack",
+    "androidType": "id"
+  },
+  {
+    "key": "Kategoriler Butonu",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_category",
+    "androidType": "id"
+  },
+  {
+    "key": "Bilgisayar, Teknoloji, Elektronik Kategorisi",
+    "androidValue": "//android.widget.FrameLayout[@content-desc='topMenuItem2']/android.view.ViewGroup",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Alt Kategoriler Listesinden Rastgele Kategori Seçmek",
+    "androidValue": "com.pozitron.hepsiburada:id/rvCombinedH1",
+    "androidType": "id"
+  },
+  {
+    "key": "Alt Kategori'nin Spesifik Kategori Listesi",
+    "androidValue": "com.pozitron.hepsiburada:id/rvH2",
+    "androidType": "id"
+  },
+  {
+    "key": "Ürün Listesi",
+    "androidValue": "com.pozitron.hepsiburada:id/rvPlp",
+    "androidType": "id"
+  },
+
+
+  {
+    "key": "Rastgele Bir Ürünü Sepete Ekle Butonu",
+    "value": "//*[@id='1']",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepet'e Git",
+    "value": "//*[@id='oldHeader_c9763b9d-5394-4a99-e5e8-99646cc31dd3']/div/div/div[2]/div[3]/a",
+    "type": "xpath"
+  }
+]

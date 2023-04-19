@@ -1,0 +1,42 @@
+[
+  {
+    "key": "Ürünü Sepete Ekle",
+    "androidValue": "com.pozitron.hepsiburada:id/product_detail_add_to_cart",
+    "androidType": "id"
+  },
+  {
+    "key": "Ürün Sepete Eklendi Kontrolü",
+    "androidValue": "com.pozitron.hepsiburada:id/productSuccesTxt",
+    "androidType": "id"
+  },
+  {
+    "key": "Ekleme Sonrası Sepete Gidiş",
+    "androidValue": "com.pozitron.hepsiburada:id/goBasketTxt",
+    "androidType": "id"
+  },
+  {
+    "key": "Ürün Silme Butonu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]/android.view.View[1]/android.view.View/android.widget.ListView/android.view.View/android.view.View/android.view.View[4]/android.view.View[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Seçili Ürün Adedi Artırma",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]/android.view.View[1]/android.view.View/android.widget.ListView/android.view.View/android.view.View/android.view.View[4]/android.view.View[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Seçili Ürün Adedi Azaltma",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]/android.view.View[1]/android.view.View/android.widget.ListView/android.view.View/android.view.View/android.view.View[4]/android.view.View[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "1'den Fazla Adedi Bulunan Ürünü Komple Sepetten Silme",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]/android.view.View[1]/android.view.View/android.widget.ListView/android.view.View/android.view.View/android.view.View[4]/android.view.View[3]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Alışverişi Tamamla Butonu",
+    "androidValue": "continue_step_btn",
+    "androidType": "id"
+  }
+]

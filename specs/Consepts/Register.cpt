@@ -1,0 +1,15 @@
+Created by testinium on 18.04.2023
+
+This is a concept file with following syntax for each concept.
+# Hepsiburada Uygulamasına Başarılı Üye Kaydı İşlemi Yapılır
+* "Hesabım" id'li elemente tikla
+* "Üye Ol Buton" xpath'li elemente tikla
+* "Üyelik Mail Adresi" id'li elemente "berkay.ipek@testinium.com" text degerini gonder
+* "Devam Et Butonu" id'li elemente tikla
+* "Doğrulama Maili Gönderildi Kontrolü" li elementin oldugu kontrol edilir
+* "Üyelik Ad" id'li elemente "berkay" text degerini gonder
+* "Üyelik Soyad" id'li elemente "ipek" text degerini gonder
+* "Üyelik Şifresi" id'li elemente "643ef46a2dbe4fb40d04705c339654d86e48b490067c5789db6f9bf89ac6f699513c57399c64" text degerini gonder
+* "Üyelik Tamamlama Butonu" id'li elemente tikla
+* "Başarılı Giriş Kontrolü" li element gorunur olana kadar bekle
+* "Üye Girişi Hoşgeldiniz Pop Up Kapatma Butonu" id'li elemente tikla
